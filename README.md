@@ -1,4 +1,3 @@
-# Python-Learning-journal
 # Python Learning Journal
 
 This repo documents my journey learning Python from scratch.  
